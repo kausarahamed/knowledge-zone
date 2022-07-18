@@ -6,10 +6,7 @@ function App() {
       <h1>Knowledge ZONE</h1>
 
       <h1>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
-        reprehenderit placeat fuga provident reiciendis laboriosam maxime
-        architecto nobis, ea iste eos odit ab eius atque officiis sit, ipsam
-        repellat. Harum?
+        This is saddam hossain
       </h1>
 
       <button class="inline-block cursor-pointer rounded-md bg-gray-800 px-4 py-3 text-center text-sm font-semibold uppercase text-white transition duration-200 ease-in-out hover:bg-gray-900">
