@@ -19,15 +19,12 @@ function App() {
       <h1>Nipa's Branch</h1>
       <h1>Faisal's Branch</h1>
 
-<<<<<<< HEAD
       <h1>saddam hossain</h1>
-=======
       <h1>University</h1>
       <h1>Chittagong</h1>
 
       <h1>saddam hossain</h1>
      
->>>>>>> bb9b3b7bab98f3c6de913e5effd66e5fb70c8e62
     </div>
   );
 }
