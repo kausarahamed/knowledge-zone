@@ -1,13 +1,14 @@
 import React from "react";
+import heroImg from '../../images/header_image_1.png';
 
 const HeroBanner = () => {
   return (
-    <div class="hero min-h-screen bg-gradient-to-r from-blue-500 to-blue-900 text-white">
+    <div class="hero min-h-screen bg-gradient-to-r from-[#9504B8] to-[#490774] text-white">
       <div class="hero-content flex-col lg:flex-row-reverse ">
         <div className="w-1/2 flex justify-center">
           <img
-            src="https://placeimg.com/260/400/arch"
-            class="max-w-sm rounded-lg shadow-2xl "
+            src={heroImg} alt=''
+            class="max-w-sm  "
           />
         </div>
         <div className="w-1/2 px-12">
