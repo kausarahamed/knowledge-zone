@@ -1,10 +1,11 @@
 import React from "react";
 import Reviews from "../../Reviews/Reviews";
+import Navbar from "./Navbar";
 
 const Home = () => {
   return (
     <div>
-      <h1>home</h1>
+      <Navbar/>
       <Reviews></Reviews>
     </div>
   );
