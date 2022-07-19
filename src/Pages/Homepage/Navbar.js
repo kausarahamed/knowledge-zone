@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navbar = () => {
     return (
-      <div class="navbar bg-base-100">
+      <div class="navbar bg-gradient-to-r from-blue-500 to-blue-900 text-white fixed z-50">
         <div class="navbar-start">
           <div class="dropdown">
             <label tabindex="0" class="btn btn-ghost lg:hidden">
@@ -25,7 +25,6 @@ const Navbar = () => {
               tabindex="0"
               class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
             >
-              
               <li tabindex="0">
                 <a class="justify-between">
                   subjects
@@ -48,14 +47,12 @@ const Navbar = () => {
                   </li>
                 </ul>
               </li>
-              
             </ul>
           </div>
           <a class="btn btn-ghost normal-case text-xl">Knowledge Zone</a>
         </div>
         <div class="navbar-start hidden lg:flex">
           <ul class="menu menu-horizontal p-0">
-            
             <li tabindex="0">
               <a>
                 Subjects
@@ -100,7 +97,6 @@ const Navbar = () => {
                 </li>
               </ul>
             </li>
-            
           </ul>
         </div>
         <div class="navbar-end">
