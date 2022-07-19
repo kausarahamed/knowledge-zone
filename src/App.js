@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <h1>Knowledge ZONE</h1>
+      <h1>Knowledge Zone</h1>
 
       <h1>
         This is saddam hossain
